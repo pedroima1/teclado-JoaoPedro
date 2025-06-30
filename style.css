@@ -1,0 +1,26 @@
+:root{
+    --cinza: #aaa;
+--vermelha: #e93d50;
+--vermelha-escura: #af303f;
+--branca: #fff;
+--luz: #ff5c77;
+    
+}
+
+body{
+    background-color: (--vermelha);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    min-height: 100vh;
+
+}
+
+h1{
+    font-size: 2rem;
+    margin-bottom: 20xp;
+    color: var(--branca)
+    
+}
